@@ -1,0 +1,15 @@
+C:\Users\George\Desktop\Итоговый проект\Работа\bin\Debug\net7.0\Работа.exe
+C:\Users\George\Desktop\Итоговый проект\Работа\bin\Debug\net7.0\Работа.deps.json
+C:\Users\George\Desktop\Итоговый проект\Работа\bin\Debug\net7.0\Работа.runtimeconfig.json
+C:\Users\George\Desktop\Итоговый проект\Работа\bin\Debug\net7.0\Работа.dll
+C:\Users\George\Desktop\Итоговый проект\Работа\bin\Debug\net7.0\Работа.pdb
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.csproj.AssemblyReference.cache
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.AssemblyInfoInputs.cache
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.AssemblyInfo.cs
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.csproj.CoreCompileInputs.cache
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.dll
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\refint\Работа.dll
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.pdb
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\Работа.genruntimeconfig.cache
+C:\Users\George\Desktop\Итоговый проект\Работа\obj\Debug\net7.0\ref\Работа.dll
